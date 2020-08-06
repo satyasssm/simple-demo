@@ -1,2 +1,2 @@
-# simple-demo
-for my git training
+# Simple example repository
+Training repository
